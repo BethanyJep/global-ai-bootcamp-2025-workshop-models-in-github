@@ -59,7 +59,7 @@ For this next demo, we have an obstructed image. Bounding boxes were purposefull
 
 > Revealing a bit more, it's still quite challenging to identify what it is. This time, the prompt is adjusted slightly to: 'Extract all the text from the image. Explain what you think this is.' gpt-4o-mini responded, 'This says "milk, steak" and appears to be a shopping list.' It also noted that the image is still partially obscured, which is quite interesting.
 
-4. We will add a new final image, go to Desktop folder and upload [context-003](./media/demo-4-context-003.png) image to our chat, with the prompt: ```Extract all the texts from the image. Explain what you think this is.```
+4. We will add a new final image, go to Desktop folder and upload [context-003](./media/context-003.png) image to our chat, with the prompt: ```Extract all the texts from the image. Explain what you think this is.```
 
 > Upon revealing the entire image, we see that gpt-4o-mini was correct—it is indeed a shopping list. It accurately identifies items like 'mayo' and 'organic bread.' Even more intriguing is its interpretation of the note at the bottom. It captures the subtle context, stating, 'The note on the beer item suggests a reminder or an emphasis on moderation or limiting the quantity.
 

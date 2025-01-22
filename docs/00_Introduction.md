@@ -5,8 +5,6 @@
 
 This workshop is for the [Global AI Bootcamp 2025](https://globalai.community/bootcamp)
 
-![session banner](./Images/banner.jpg)
-
 ## Description
 This workshop is designed to give you a hands-on introduction to the core concepts and best practices for interacting with OpenAI models in GitHub Models portal. We will be running the workshop using [GitHub Models](https://github.com/marketplace/models) and [Microsoft Copilot](https://copilot.microsoft.com/).
 
@@ -24,10 +22,6 @@ This workshop is designed to give you a hands-on introduction to the core concep
 ## Technology Used
 * GitHub Models
 * Microsoft Copilot
-
-
-> [!NOTE]
->This is a **TBD-minute** workshop that will give you a hands-on introduction to the core concepts and best practices for interacting with OpenAI models.
 
 
 
