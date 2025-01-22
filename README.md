@@ -1,0 +1,1 @@
+# global-ai-bootcamp-2025-workshop-models-in-github
