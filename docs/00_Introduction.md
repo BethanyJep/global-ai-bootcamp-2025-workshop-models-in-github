@@ -12,7 +12,7 @@ This workshop is designed to give you a hands-on introduction to the core concep
 ### Duration
 45 - 60 minutes
 
-### [Slide Deck](TBD)
+### Slide Deck
 
 ## Learning Outcomes
 * Understand how Large Language Models work, including what tokens are​.
