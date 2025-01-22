@@ -1,7 +1,7 @@
 site_name: Interacting with Multimodal models
 
 nav:
-  - Introduction : 00_Introduction.md
+  - Introduction : index.md
   - Setup: 01_Set_up.md
   - Part 1 - Text Generation: 02_Text_Generation.md
   - Part 2 - Image Generation: 03_Image_Generation.md
