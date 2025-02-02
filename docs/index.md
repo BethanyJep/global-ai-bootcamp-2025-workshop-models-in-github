@@ -8,11 +8,11 @@ This workshop is for the [Global AI Bootcamp 2025](https://globalai.community/bo
 ## Description
 This workshop is designed to give you a hands-on introduction to the core concepts and best practices for interacting with OpenAI models in GitHub Models portal. We will be running the workshop using [GitHub Models](https://github.com/marketplace/models) and [Microsoft Copilot](https://copilot.microsoft.com/).
 
-
 ### Duration
 45 - 60 minutes
 
 ### Slide Deck
+[Download the slidedeck here](https://globalaibootcamp25.blob.core.windows.net/workshops/globalaibootcamp-workshop-github-models.pptx).
 
 ## Learning Outcomes
 * Understand how Large Language Models work, including what tokens are​.
@@ -22,7 +22,6 @@ This workshop is designed to give you a hands-on introduction to the core concep
 ## Technology Used
 * GitHub Models
 * Microsoft Copilot
-
 
 
 ## Learning Objectives
