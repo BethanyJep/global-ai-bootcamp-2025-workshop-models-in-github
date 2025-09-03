@@ -2,7 +2,7 @@
 
 This repository is for the Global AI Bootcamp 2025 workshop: *Interacting with Multimodal models in GitHub Models and Microsoft Copilot*
 
-![session banner](./Images/banner.jpg)
+<!-- ![session banner](./Images/banner.jpg) -->
 
 ## Session Description
 

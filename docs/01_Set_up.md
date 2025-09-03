@@ -13,7 +13,7 @@ What is [**GitHub Models**](https://github.com/marketplace/models)? GitHub Model
 
 ![Screenshot of GitHub Models Marketplace](media/github-models-marketplace.png)
 
-In this workshop we will be working with GitHub Models as one of our tools. First, once you have signed into your GitHub account, you can access the [GitHub Models using this link.](https://github.com/marketplace/models)
+In this workshop we will be working with GitHub Models as one of our tools. Once you have signed into your GitHub account, you can access the [GitHub Models using this link.](https://github.com/marketplace/models)
 
 ### GitHub Models chat Playground
 
