@@ -29,13 +29,15 @@ Until now, we have interacted with LLMs using a single modality: inputting text 
 
 1. Navigate to the  **GitHub Models chat.**
 
->[!alert] Before you start, click on **Reset Chat History** to avoid any context from previous interactions.
+> 📌 **Important Note**
+> Before you start, click on **Reset Chat History** to avoid any context from previous interactions.
 
 2. In the chat text box, click on the attachment icon to upload a local image.
 
 ![GitHub Models attachment button](./media/gh-models-attachment.PNG)
 
-3. Select the ![image](media/house-multimodal/01.jpeg) in the repository and upload them to the chat.
+3. Select the images in the [house images folder](/docs/media/house-multimodal/) and upload them to the chat.
+![image](media/house-multimodal/01.jpeg)
 4. Once you have uploaded the file, try this prompts to start interacting with the image:
 
 ```
@@ -86,10 +88,10 @@ By integrating the **gpt-4o-realtime-preview** model, users can interact with th
     ```Hey Copilot, how do I make the perfect pot of tea?```
 
 > [!TIP]
-> You can select Settings to change the voices between Wave, Grove, Canyon and Meadow.
+> You can select Settings to change the voices between Birch, Rain, Elm, Alder, Wave, Grove, Canyon and Meadow.
 
 ## Next Steps
 
 Congratulations! You have now completed the lab and you learnt how to interact with multimodal models. 
 
-Move to [Summary](07_Summary.md) to proceed to complete the lab.
+Move to [Summary](06_Summary.md) to proceed to complete the lab.

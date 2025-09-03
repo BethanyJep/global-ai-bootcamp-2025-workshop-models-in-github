@@ -53,7 +53,8 @@ Moreover, you can also instruct your LLM to extract key information from text. I
 
 ## Advanced prompting
 
->[!alert] Before moving on with the next section, click on the **Reset chat history** button to clear the message history. To do this, click on the **trash icon** on the top right of your playground, it will automatically reset your chat history.
+> 📌 **Important Note**
+> Before moving on with the next section, click on the **Reset chat history** button to clear the message history. To do this, click on the **trash icon** on the top right of your playground, it will automatically reset your chat history.
 
 ![GitHub Models reset chat](media/gh-models-reset-chat.JPG)
 
@@ -64,7 +65,8 @@ LLMs are trained on such large amounts of data they may be able to perform some 
 ```
 Generate 10 unique menu items for a futuristic themed restaurant, including dish names and a short description.
 ```
->[!alert] Before moving on with the next section, click on the **Reset chat history** button to clear the message history. 
+> 📌 **Important Note**
+> Before moving on with the next section, click on the **Reset chat history** button to clear the message history. 
 
 ### Few-shot learning
 
@@ -81,7 +83,8 @@ Asteroid Meat Feast: Loaded with pepperoni, ham, ground beef, bacon, and Italian
 
 ### Chain of thought prompting
 
->[!alert] Before you start, click on **Reset chat history** to avoid any context from previous interactions.
+> 📌 **Important Note**
+> Before you start, click on **Reset chat history** to avoid any context from previous interactions.
 
 When interacting with LLMs, a useful tip is to imagine that you are speaking to an untrained intern. So the more details you can provide about the task to be performed, the better the results you will get. In particular, a useful strategy is to break down the task into smaller parts and provide a prompt for each part. Let's try this with the website copy generation task.
 
@@ -108,7 +111,8 @@ Take a step-by-step approach in your response: Start by thinking about the theme
 
 ## System message and added knowledge
 
->[!alert] Before moving on with the next section, click on the **Reset chat history** button to clear the message history.
+> 📌 **Important Note**
+> Before moving on with the next section, click on the **Reset chat history** button to clear the message history.
 
 ### System message
 
@@ -155,7 +159,8 @@ What are your thoughts on the just concluded election?
 
 ### Grounded prompting
 
->[!alert] Ensure to **Reset chat history** before moving on with the section.
+> 📌 **Important Note**
+> Ensure to **Reset chat history** before moving on with the section.
 
 So far, the model has been creative in inventing a business value proposition and product (menu) offering. However, in real-world scenarios, we want the model to generate text that is grounded in reality and reflects the actual business. To achieve this, we can use a technique called **Retrieval Augmented Generation (RAG)**. This technique involves providing the model with a set of facts or information about the business, which the model can then use to generate more accurate and relevant text.
 
@@ -230,6 +235,6 @@ Write a short description for each of the following product categories: tents, b
 
 ## Next Steps
 
-Congratulations, you have completed the first part of the lab! You have learned how to use prompt engineering to generate text using a language model. In the next part of the lab, you will learn how to use the model to generate image assets.
+Congratulations, you have completed the first part of the lab! You have learned how to use prompt engineering to generate text using a language model. In the next part of the lab, you will learn how to use the reasoning models for better responses.
 
-Move to [Image Generation](03_Image_Generation.md) to proceed to the Image Generation section.
+Move to [Reasoning Models](03_Reasoning.md) to proceed to the Reasoning Models section.
