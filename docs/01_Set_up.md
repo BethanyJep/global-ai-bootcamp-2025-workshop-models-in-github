@@ -23,7 +23,7 @@ On GitHub Models, you can select, **OpenAI GPT-4o** model to start interacting w
 
 The model playground is made up of the following components:
 
-![GitHub Models Playground](media/github-models-playground-illustrated.JPG)
+![GitHub Models Playground](media/github-copilot-playground.jpg)
 
 1. **Model Selector**: This section allows us to change between our deployed models.
 2. **Compare**: This section allows us to compare multiple models.
@@ -45,7 +45,7 @@ The model playground is made up of the following components:
 
 The Copilot playground is made up of the following components:
 
-![Microsoft Copilot Chat Playground](media/microsoft-copilot-playground.JPG)
+![Microsoft Copilot Chat Playground](media/microsoft-copilot-chat-playground.jpg)
 
 1. **Settings tab**: This section allows us to configure our interactions such as language and audio voice.
 1. **Home Icon**: Using this button you can go back to the homepage and access your history

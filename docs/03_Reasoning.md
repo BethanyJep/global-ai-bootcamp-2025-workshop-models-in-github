@@ -81,6 +81,10 @@ Again, the model is able to reason appropriately and come to the solution accura
 
 ### **Code**:
 
+For this use case, we will make use of Microsoft Copilot. Under the Microsoft Copilot chat box, select the dropdown arrow next to the *Quick response button.* Once selected, switch the mode to **Think Deeper.** Continue with the exercise.
+
+![image](./media/deep-research-microsoft-copilot.jpg)
+
 As mentioned before, one of the areas where reasoning models excel is at dealing with code. 
 
 1. We have all run into code that may be a bit hard to understand at first glance. Especially if we do not have context around it. Let's test o4-mini out with this piece of uncommented code, with ambiguous variable names:

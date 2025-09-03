@@ -71,7 +71,7 @@ By integrating the **gpt-4o-realtime-preview** model, users can interact with th
 
 1. Navigate back to **Microsoft Copilot** and select **Start new chat**
 
-![Start new chat](./media/microsoft-copilot-new-chat.JPG)
+![Start new chat](./media/microsoft-copilot-new-chat.jpg)
 
 2. Select the talk to Copilot option, a pop up will appear, click allow to enable interactions with audio.
 
@@ -79,7 +79,7 @@ By integrating the **gpt-4o-realtime-preview** model, users can interact with th
 
 3. Start interacting with Copilot with the following prompts:
 
-![Audio Playground](./media/microsoft-copilot-audio-playground.png)
+![Audio Playground](./media/microsoft-copilot-audio.PNG)
 
 
     ```Copilot, teach me some Italian phrases!```
@@ -89,6 +89,8 @@ By integrating the **gpt-4o-realtime-preview** model, users can interact with th
 
 > [!TIP]
 > You can select Settings to change the voices between Birch, Rain, Elm, Alder, Wave, Grove, Canyon and Meadow.
+
+![Audio Playground options](./media/microsoft-copilot-audio-choices.PNG)
 
 ## Next Steps
 
